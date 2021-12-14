@@ -1,0 +1,25 @@
+body{
+    height: auto;
+    width: 100%;
+    background-image: url(../IMG/Captura\ de\ pantalla\ 2021-12-14\ 111025.png);
+    display: flex;
+}
+.content{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 270px;
+}
+.secont{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: blue;
+    width: auto;
+    height: auto;
+    width: 8%;
+    height: 8%;
+}
